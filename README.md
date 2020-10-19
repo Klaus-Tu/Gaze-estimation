@@ -19,7 +19,7 @@
    * Paper Link: https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Yihua_Cheng_Appearance-Based_Gaze_Estimation_ECCV_2018_paper.pdf
    <img src="https://user-images.githubusercontent.com/30978579/96454356-72affe00-1267-11eb-8781-bb50243e7cef.png" width="600" height="250">
    
-## 2) Recent trend: Person Specific models
+## 3) Recent trend: Person Specific models
 - a. A Differential Approach for Gaze Estimation
    **(IEEE Transactionson Pattern Analysis and Machine Intelligence (PAMI), 2020)**
    * Paper Repository: 
@@ -32,4 +32,8 @@
    * Paper Link: https://arxiv.org/abs/1905.01941
    <img src="https://user-images.githubusercontent.com/30978579/96456755-a9d3de80-126a-11eb-9376-8da7e46c0604.png" width="300" height="500">
 
-   
+- c. Improving Few-Shot User-Specific Gaze Adaptation via Gaze Redirection Synthesis
+  **(CVPR 2019)**
+   * Paper Repository: 
+   * Paper Link: https://arxiv.org/abs/1904.10638
+   <img src="https://user-images.githubusercontent.com/30978579/96459430-d63d2a00-126d-11eb-9371-af9d950f3212.png" width="500" height="250">

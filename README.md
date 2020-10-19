@@ -3,7 +3,7 @@
 - a.Eye Track for everyone (CVPR 2016)
    * Paper Repository: https://github.com/CSAILVision/GazeCapture
    * Paper Link: https://arxiv.org/abs/1606.05814
-   ![image](https://user-images.githubusercontent.com/30978579/96454040-07662c00-1267-11eb-898a-b4ccbf697eaf.png ){:height="50%" width="50%"}
+   <img src="https://user-images.githubusercontent.com/30978579/96454040-07662c00-1267-11eb-898a-b4ccbf697eaf.png" width="500" height="250">
 
 - b.Efficiency in real-time webcam eye tracking (Awarded Best Paper at (ECCV) Workshop on Eye Gaze in AR, VR, and in the Wild (OpenEyes) 2020)
    * Paper Repository:

@@ -10,14 +10,15 @@
     **(Awarded Best Paper at (ECCV) Workshop on Eye Gaze in AR, VR, and in the Wild (OpenEyes) 2020)**
    * Paper Repository:
    * Paper Link: https://arxiv.org/abs/2009.01270
-   <img src="https://user-images.githubusercontent.com/30978579/96454360-75125800-1267-11eb-90ac-ecfafe8b8ac6.png" width="500" height="250">
+   <img src="https://user-images.githubusercontent.com/30978579/96454356-72affe00-1267-11eb-8781-bb50243e7cef.png" width="600" height="250">
 
 ## 2) 3D Gaze Estimation: Appearance based method
 - a. Appearance-Based Gaze Estimation via Evaluation-Guided Asymmetric Regression 
     **(ECCV in 2018)**
    * Paper Repository: https://github.com/yihuacheng/ARE-GazeEstimation
    * Paper Link: https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Yihua_Cheng_Appearance-Based_Gaze_Estimation_ECCV_2018_paper.pdf
-   <img src="https://user-images.githubusercontent.com/30978579/96454356-72affe00-1267-11eb-8781-bb50243e7cef.png" width="600" height="250">
+   
+   <img src="https://user-images.githubusercontent.com/30978579/96454360-75125800-1267-11eb-90ac-ecfafe8b8ac6.png" width="500" height="250">
    
 ## 3) Recent trend: Person Specific models
 - a. A Differential Approach for Gaze Estimation

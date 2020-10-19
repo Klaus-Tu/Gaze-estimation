@@ -1,12 +1,12 @@
 # Gaze Estimation Papers
 ## 1) 2D Gaze Estimation
-- a.Eye Track for everyone 
+- a. Eye Track for everyone 
    <br> **(CVPR 2016)**
    * Paper Repository: https://github.com/CSAILVision/GazeCapture
    * Paper Link: https://arxiv.org/abs/1606.05814
    <img src="https://user-images.githubusercontent.com/30978579/96454040-07662c00-1267-11eb-898a-b4ccbf697eaf.png" width="500" height="250">
 
-- b.Efficiency in real-time webcam eye tracking 
+- b. Efficiency in real-time webcam eye tracking 
     <br> **(Awarded Best Paper at (ECCV) Workshop on Eye Gaze in AR, VR, and in the Wild (OpenEyes) 2020)**
    * Paper Repository:
    * Paper Link: https://arxiv.org/abs/2009.01270
@@ -17,8 +17,13 @@
     <br> **(ECCV in 2018)**
    * Paper Repository: https://github.com/yihuacheng/ARE-GazeEstimation
    * Paper Link: https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Yihua_Cheng_Appearance-Based_Gaze_Estimation_ECCV_2018_paper.pdf
-   
    <img src="https://user-images.githubusercontent.com/30978579/96454360-75125800-1267-11eb-90ac-ecfafe8b8ac6.png" width="500" height="250">
+   
+- b. RT-GENE: Real-Time Eye Gaze Estimation in Natural Environments
+    <br> **(ECCV 2018)**
+    * Paper Repository: https://github.com/Tobias-Fischer/rt_gene
+    * Paper Link: http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.pd
+   <img src="https://user-images.githubusercontent.com/30978579/96479353-8fa6fa00-1284-11eb-9738-d6a622d2981a.png" width="500" height="250">
    
 ## 3) Recent trend: Person Specific models
 - a. A Differential Approach for Gaze Estimation

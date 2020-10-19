@@ -20,12 +20,11 @@
 - a. A Differential Approach for Gaze Estimation(IEEE Transactionson Pattern Analysis and Machine Intelligence (PAMI), 2020)
    * Paper Repository: 
    * Paper Link: https://arxiv.org/abs/1904.09459
-   ![image](https://user-images.githubusercontent.com/30978579/96456566-5e213500-126a-11eb-8d4c-d5b195ad4a05.png)
+   <img src="https://user-images.githubusercontent.com/30978579/96456566-5e213500-126a-11eb-8d4c-d5b195ad4a05.png" width="500" height="250">
 
 -b. Few-Shot Adaptive Gaze Estimation (ICCV2019)
    * Paper Repository: https://github.com/NVlabs/few_shot_gaze
    * Paper Link: https://arxiv.org/abs/1905.01941
-   ![image](https://user-images.githubusercontent.com/30978579/96456755-a9d3de80-126a-11eb-9376-8da7e46c0604.png)
-
+   <img src="https://user-images.githubusercontent.com/30978579/96456755-a9d3de80-126a-11eb-9376-8da7e46c0604.png" width="500" height="250">
 
    

@@ -22,7 +22,7 @@
    * Paper Link: https://arxiv.org/abs/1904.09459
    <img src="https://user-images.githubusercontent.com/30978579/96456566-5e213500-126a-11eb-8d4c-d5b195ad4a05.png" width="500" height="250">
 
--b. Few-Shot Adaptive Gaze Estimation (ICCV2019)
+- b. Few-Shot Adaptive Gaze Estimation (ICCV2019)
    * Paper Repository: https://github.com/NVlabs/few_shot_gaze
    * Paper Link: https://arxiv.org/abs/1905.01941
    <img src="https://user-images.githubusercontent.com/30978579/96456755-a9d3de80-126a-11eb-9376-8da7e46c0604.png" width="300" height="500">

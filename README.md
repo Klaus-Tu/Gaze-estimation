@@ -14,7 +14,7 @@
 - a. Appearance-Based Gaze Estimation via Evaluation-Guided Asymmetric Regression (ECCV in 2018)
    * Paper Repository: https://github.com/yihuacheng/ARE-GazeEstimation
    * Paper Link: https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Yihua_Cheng_Appearance-Based_Gaze_Estimation_ECCV_2018_paper.pdf
-   <img src="https://user-images.githubusercontent.com/30978579/96454356-72affe00-1267-11eb-8781-bb50243e7cef.png" width="500" height="250">
+   <img src="https://user-images.githubusercontent.com/30978579/96454356-72affe00-1267-11eb-8781-bb50243e7cef.png" width="600" height="250">
    
 ## 2) Recent trend: Person Specific models
 - a. A Differential Approach for Gaze Estimation(IEEE Transactionson Pattern Analysis and Machine Intelligence (PAMI), 2020)
@@ -25,6 +25,6 @@
 -b. Few-Shot Adaptive Gaze Estimation (ICCV2019)
    * Paper Repository: https://github.com/NVlabs/few_shot_gaze
    * Paper Link: https://arxiv.org/abs/1905.01941
-   <img src="https://user-images.githubusercontent.com/30978579/96456755-a9d3de80-126a-11eb-9376-8da7e46c0604.png" width="250" height="500">
+   <img src="https://user-images.githubusercontent.com/30978579/96456755-a9d3de80-126a-11eb-9376-8da7e46c0604.png" width="300" height="500">
 
    

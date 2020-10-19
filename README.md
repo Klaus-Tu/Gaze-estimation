@@ -36,7 +36,7 @@
    <br> **(ICCV 2019)**
    * Paper Repository: https://github.com/NVlabs/few_shot_gaze
    * Paper Link: https://arxiv.org/abs/1905.01941
-   <img src="https://user-images.githubusercontent.com/30978579/96456755-a9d3de80-126a-11eb-9376-8da7e46c0604.png" width="300" height="500">
+   <img src="https://user-images.githubusercontent.com/30978579/96456755-a9d3de80-126a-11eb-9376-8da7e46c0604.png" width="300" height="450">
 
 - c. Improving Few-Shot User-Specific Gaze Adaptation via Gaze Redirection Synthesis
   <br> **(CVPR 2019)**

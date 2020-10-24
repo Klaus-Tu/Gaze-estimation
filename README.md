@@ -44,7 +44,7 @@
    * Paper Link: https://arxiv.org/abs/1904.10638
    <img src="https://user-images.githubusercontent.com/30978579/96459430-d63d2a00-126d-11eb-9371-af9d950f3212.png" width="500" height="250">
  
-- D. Unsupervised Representation Learning for Gaze Estimation **(GRL)**
+- D. Unsupervised Representation Learning for Gaze Estimation **(GRL, GR)**
   <br> **(CVPR 2020)**
    * Paper Repository: 
    * Paper Link: https://arxiv.org/pdf/1911.06939.pdf

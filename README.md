@@ -50,6 +50,12 @@
    * Paper Link: https://arxiv.org/pdf/1911.06939.pdf
    <img src="https://user-images.githubusercontent.com/30978579/96482018-6a67bb00-1287-11eb-9aac-6d4c791716b0.png" width="300" height="450">
    
+- E. Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks **(GR)**
+   <br> **(ICCV 2019)**
+   * Paper Repository: https://github.com/HzDmS/gaze_redirection
+   * Paper Link: https://arxiv.org/abs/1903.12530
+   <img src="https://user-images.githubusercontent.com/30978579/97070123-94233800-1621-11eb-9692-b661dd589d7b.png" width="500" height="250">
+   
 # Gaze Estimation Dataset
 
 

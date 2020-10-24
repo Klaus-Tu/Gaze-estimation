@@ -25,7 +25,7 @@
     * Paper Link: http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.pd
    <img src="https://user-images.githubusercontent.com/30978579/96479353-8fa6fa00-1284-11eb-9738-d6a622d2981a.png" width="500" height="250">
    
-## 3) Recent trend: Person Specific models (PS), Gaze Representation Learning (GRL), Gaze Redirection (GR)
+## 3) Recent trend: Person Specific models (few shot learning) (PS), Gaze Representation Learning (GRL), Gaze Redirection (GR)
 - A. A Differential Approach for Gaze Estimation **(PS)**
    <br> **(IEEE Transactionson Pattern Analysis and Machine Intelligence (PAMI), 2020)**
    * Paper Repository: 
